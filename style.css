@@ -6,10 +6,12 @@ body {
 
 h1 {
   text-indent: 16px;
+  font-family: Arial, sans-serif;
 }
 
 h2 {
   text-indent: 16px;
+  font-family: Arial, sans-serif;
 }
 img {
   padding: 25px;
@@ -19,17 +21,20 @@ a:link {
   color: green;
   background-color: transparent;
   text-decoration: none;
+  font-family: Arial, sans-serif;
 }
 
 a:visited {
   color: red;
   background-color: transparent;
   text-decoration: none;
+  font-family: Arial, sans-serif;
 }
 
 a {
   text-indent: 50px;
   padding-left: 50px;
+  font-family: Arial, sans-serif;
 }
 
 iframe {
@@ -41,6 +46,7 @@ ul {
   text-align: left;
   font-weight: normal;
   font-size:  16
+  font-family: Arial, sans-serif;
 }
 li {
   text-indent: 16px;
@@ -49,6 +55,7 @@ li {
   font-size:  16;
   color: darkblue;
   line-height: normal;
+  font-family: Arial, sans-serif;
 }
 ol {
   text-indent: 16px;
@@ -57,6 +64,7 @@ ol {
   font-size:  16;
   color: darkblue;
   line-height: normal;
+  font-family: Arial, sans-serif;
 }
 p {
   text-indent: 50px;
@@ -64,6 +72,7 @@ p {
   font-weight: normal;
   font-size:  16;
   color: darkblue;
+  font-family: Arial, sans-serif;
 }
 
 
